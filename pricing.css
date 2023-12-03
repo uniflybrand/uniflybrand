@@ -1,0 +1,159 @@
+*{margin: 0%;
+   padding: 0%;
+}
+
+
+
+
+.pricing-table{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: min(1600px, 100%);
+    margin: auto;
+  }
+  
+  .pricing-card{
+    flex: 1;
+    max-width: 360px;
+    background-color: #fff;
+    margin: 20px 10px;
+    text-align: center;
+    cursor: pointer;
+    overflow: hidden;
+    color: #2d2d2d;
+    transition: .3s linear;
+  }
+  
+  .pricing-card-header{
+    background-color: #049389;
+    display: inline-block;
+    color: #fff;
+    padding: 12px 30px;
+    border-radius: 0 0 20px 20px;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 600;
+    transition: .4s linear;
+  }
+  
+  .pricing-card:hover .pricing-card-header{
+    box-shadow: 0 0 0 26em #049389;
+  }
+  
+  .price{
+    font-size: 70px;
+    color: #049389;
+    margin: 40px 0;
+    transition: .2s linear;
+  }
+  
+  .price sup, .price span{
+    font-size: 22px;
+    font-weight: 700;
+  }
+  
+  .pricing-card:hover ,.pricing-card:hover .price{
+    color: #fff;
+  }
+  
+  .pricing-card li{
+    font-size: 16px;
+    padding: 10px 0;
+    text-transform: uppercase;
+  }
+  
+  .order-btn{
+    display: inline-block;
+    margin-bottom: 40px;
+    margin-top: 80px;
+    border: 2px solid #049389;
+    color: #049389;
+    padding: 18px 40px;
+    border-radius: 8px;
+    text-transform: uppercase;
+    font-weight: 500;
+    transition: .3s linear;
+  }
+  
+  .order-btn:hover{
+    background-color: #049389;
+    color: #fff;
+  }
+  
+  @media screen and (max-width:1100px){
+    .pricing-card{
+      flex: 50%;
+    }
+  }
+  
+  
+  
+  
+  
+  body{
+    margin:0;
+    overflow-x:hidden;
+    }
+    
+    .footer{
+    background:transparent;
+    padding:30px 0px;
+    font-family: 'Play', sans-serif;
+    font-weight: 900;
+    text-align:center;
+    }
+    
+    .footer .row{
+    width:100%;
+    margin:1% 0%;
+    padding:0.6% 0%;
+    color:#049389;
+    font-size:0.8em;
+    }
+    
+    .footer .row a{
+    text-decoration:none;
+    color:#049389;
+    transition:0.5s;
+    }
+    
+  
+    
+    .footer .row ul{
+    width:100%;
+    }
+    
+    .footer .row ul li{
+    display:inline-block;
+    margin:0px 30px;
+    }
+    
+    .footer .row a i{
+    font-size:2em;
+    margin:0% 1%;
+    }
+    
+    @media (max-width:720px){
+    .footer{
+    text-align:left;
+    padding:5%;
+    }
+    .footer .row ul li{
+    display:block;
+    margin:10px 0px;
+    text-align:left;
+    }
+    .footer .row a i{
+    margin:0% 3%;
+    }
+    }
+  
+  
+  
+  
+  
+  
+  
+  
+  

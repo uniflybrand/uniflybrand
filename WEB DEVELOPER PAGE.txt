@@ -1,0 +1,382 @@
+      HTML
+
+
+    <center>  <div  class="card"> 
+      <img src="https://cdn.dribbble.com/users/1912990/screenshots/6496981/web_developing.gif" alt="Image 1"> 
+      <div class="card-content"> 
+        <h3 style="color: #049389; font-family: sans-serif;" >Web development</h3> 
+        <p>"Elevate Your Startup's Success with Seamless Web Solutions - Where Design Meets Development for Unstoppable Growth!"</p> 
+      
+      </div> 
+    </div> 
+    
+    <div class="card"> 
+      <img src="https://www.existus.com/assets/images/image-ecom-development.gif" alt="Image 2"> 
+      <div class="card-content"> 
+        <h3 style="color: #049389; font-family: sans-serif;" >E-Commerce Website</h3> 
+        <p>
+          "Empower Your Online Storefront: Unleash growth potential through our expertly designed e-commerce platforms that captivate and convert."</p> 
+      
+      </div> 
+    </div> 
+    <div class="card"> 
+      <img src="https://i.gifer.com/623F.gif" alt="Image 2"> 
+      <div class="card-content"> 
+        <h3 style="color: #049389; font-family: sans-serif;" >Affordable Web Solutions</h3> 
+        <p>"Empower your business startup with cost-effective web solutions tailored for growth and success."</p> 
+      
+      </div> 
+    </div> 
+    
+    
+    
+    
+    
+    </center>
+
+
+ 
+<style>
+ 
+  
+  .container {
+    display: flex;
+    align-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .image {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .image img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  .content {
+    flex: 2;
+    padding: 20px;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="image">
+    <img  style="mix-blend-mode: darken;" src="https://cdn.dribbble.com/users/1525393/screenshots/15200201/main_.gif" alt="Sample Image">
+  </div>
+  <div class="content">
+    <p>"Unlock exponential growth for your startup with a dynamic website. Reach a wider audience, showcase your products/services, and establish credibility online. Tap into the digital landscape to attract, engage, and convert customers. Elevate your brand presence and stay ahead of competitors. Invest in a website today for accelerated business success, <span style="color: #049389; font-family: sans-serif; font-weight: 900; " >"With Creators Team India"</span></p>
+  </div>
+  
+</div>
+
+<br><br>
+
+<center><h1 style="color: #049389; font-family: sans-serif;" >- Our Services -</h1></center>
+<center>  <div  class="card"> 
+  <img src="https://cdn.dribbble.com/users/1912990/screenshots/6496981/web_developing.gif" alt="Image 1"> 
+  <div class="card-content"> 
+    <h3 style="color: #049389; font-family: sans-serif;" >Web development</h3> 
+    <p>Web development involves creating and maintaining websites and web applications using programming languages, frameworks, and tools to deliver interactive and functional online experiences.</p> 
+ 
+  </div> 
+</div> 
+
+<div class="card"> 
+  <img src="https://infologia.in/Template/assets/img/infologia/webhosting.gif.gif" alt="Image 2"> 
+  <div class="card-content"> 
+    <h3 style="color: #049389; font-family: sans-serif;" >Web Server Maintenance</h3> 
+    <p>Performing regular web server maintenance ensures optimal performance and security for your online presence.</p> 
+  
+  </div> 
+</div> 
+<div class="card"> 
+  <img src="https://cdn.dribbble.com/users/1931558/screenshots/6471342/rsponsive1.gif" alt="Image 2"> 
+  <div class="card-content"> 
+    <h3 style="color: #049389; font-family: sans-serif;" >Responsive Designs</h3> 
+    <p>Responsive design in web development is essential for business startups as it ensures your website adapts seamlessly to various devices, providing an optimal user experience and enhancing your online presence.</p> 
+  
+  </div> 
+</div> 
+<div class="card"> 
+  <img src="https://img.freepik.com/premium-vector/24-hour-service-iconspeech-bubbles-phone-support-consulting-customer-problems_68708-3313.jpg" alt="Image 2"> 
+  <div class="card-content"> 
+    <h3 style="color: #049389; font-family: sans-serif;" >24/7 customers Supports</h3> 
+    <p>By This : <br>Email,<br>Call,<br>Chat On WhatsApp</p> 
+   
+  </div> 
+</div> 
+
+
+
+
+
+
+</center>
+<br><br>
+
+<center><h2 style="color: #049389; font-family: sans-serif;" >Website Development & Web Design</h2></center>
+
+<br>
+<center><h3 style="color: #049389; font-family: sans-serif; font-weight: 900;" >Plans & Pricing</h3></center>
+<br>
+<center><h3 >"Empowering Startup Dreams: Elevate Your Business with <span style="color: #049389; font-family: sans-serif; font-weight: 900;"  > Creators Team India's Developer's </span><br>Top-tier Web Solutions and Creative Designs!"</h3></center>
+
+
+
+<br><br><br>
+
+<div class="pricing-table">
+  <div class="pricing-card">
+    <h3 class="pricing-card-header">Standard Plan</h3>
+    <div class="price"><sup>$</sup>15<span>/MO</span></div>
+    <ul>
+      <li><strong>3</strong> Websites</li>
+      <li><strong>20 GB</strong> SSD</li>
+      <li><strong>1</strong> Domain Name</li>
+      <li><strong>5</strong> Email</li>
+      <li><strong>1x</strong> CPU & RAM</li>
+    </ul>
+    <a href="web form.html" class="order-btn">Order Now</a>
+  </div>
+
+  <div class="pricing-card">
+    <h3 class="pricing-card-header">Premium Plan</h3>
+    <div class="price"><sup>$</sup>30<span>/MO</span></div>
+    <ul>
+      <li><strong>10</strong> Websites</li>
+      <li><strong>50 GB</strong> SSD</li>
+      <li><strong>1</strong> Domain Name</li>
+      <li><strong>20</strong> Email</li>
+      <li><strong>1.5x</strong> CPU & RAM</li>
+    </ul>
+    <a href="#" class="order-btn">Order Now</a>
+  </div>
+
+  <div class="pricing-card">
+    <h3 class="pricing-card-header">Premium Design E-commerce Website Plan</h3>
+    <div class="price"><sup>$</sup>50<span>/MO</span></div>
+    <ul>
+      <li><strong>30</strong> Websites</li>
+      <li><strong>150 GB</strong> SSD</li>
+      <li><strong>1</strong> Domain Name</li>
+      <li><strong>40</strong> Email</li>
+      <li><strong>2x</strong> CPU & RAM</li>
+    </ul>
+    <a href="#" class="order-btn">Order Now</a>
+  </div>
+
+  <div class="pricing-card">
+    <h3 class="pricing-card-header">Custom Website Design Plan </h3>
+    <div class="price"><sup>$</sup>80<span>/MO</span></div>
+    <ul>
+      <li><strong>100</strong> Websites</li>
+      <li><strong>500 GB</strong> SSD</li>
+      <li><strong>1</strong> Domain Name</li>
+      <li><strong>100</strong> Email</li>
+      <li><strong>4x</strong> CPU & RAM</li>
+    </ul>
+    <a href="#" class="order-btn">Order Now</a>
+  </div>
+</div>
+
+
+ <!--FONT AWESOME-->
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+ <!--GOOGLE FONTS-->
+ <link rel="preconnect" href="https://fonts.gstatic.com">
+ <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Play&display=swap" rel="stylesheet"> 
+ </head>
+ <body>
+ <footer>
+ <div class="footer">
+ <div class="row">
+ <a style="color: #049389;" href="https://www.facebook.com/profile.php?id=100092969573581&mibextid=ZbWKwL
+ "><i class="fa fa-facebook"></i></a>
+ <a  style="color: #049389;" href="https://instagram.com/creators_team_india?igshid=MzNlNGNkZWQ4Mg==
+ "><i class="fa fa-instagram"></i></a>
+ <a  style="color: #049389;" href="https://youtube.com/@creatorsteam0
+ "><i class="fa fa-youtube-play"></i></a>
+ <a style="color: #049389;"  href="github.html"><i class="fa fa-github"></i></a>
+ <a style="color: #049389;" href="whatsapp.html"><i class="fa fa-whatsapp"></i></a>
+ </div>
+ 
+ <div class="row">
+ <ul>
+ <li><a href="#">Contact us</a></li>
+ <li><a href="#">Our Services</a></li>
+ <li><a href="#">Privacy Policy</a></li>
+ <li><a href="#">Terms & Conditions</a></li>
+ <li><a href="#">Career</a></li>
+ </ul>
+ </div>
+ 
+ <div class="row">
+  Copyright © 2023  - All rights reserved || Creators Team India...
+ </div>
+ </div>
+ </footer>
+
+
+    CSS
+
+
+
+
+.pricing-table{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: min(1600px, 100%);
+  margin: auto;
+}
+
+.pricing-card{
+  flex: 1;
+  max-width: 360px;
+  background-color: #fff;
+  margin: 20px 10px;
+  text-align: center;
+  cursor: pointer;
+  overflow: hidden;
+  color: #2d2d2d;
+  transition: .3s linear;
+}
+
+.pricing-card-header{
+  background-color: #049389;
+  display: inline-block;
+  color: #fff;
+  padding: 12px 30px;
+  border-radius: 0 0 20px 20px;
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: 600;
+  transition: .4s linear;
+}
+
+.pricing-card:hover .pricing-card-header{
+  box-shadow: 0 0 0 26em #049389;
+}
+
+.price{
+  font-size: 70px;
+  color: #049389;
+  margin: 40px 0;
+  transition: .2s linear;
+}
+
+.price sup, .price span{
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.pricing-card:hover ,.pricing-card:hover .price{
+  color: #fff;
+}
+
+.pricing-card li{
+  font-size: 16px;
+  padding: 10px 0;
+  text-transform: uppercase;
+}
+
+.order-btn{
+  display: inline-block;
+  margin-bottom: 40px;
+  margin-top: 80px;
+  border: 2px solid #049389;
+  color: #049389;
+  padding: 18px 40px;
+  border-radius: 8px;
+  text-transform: uppercase;
+  font-weight: 500;
+  transition: .3s linear;
+}
+
+.order-btn:hover{
+  background-color: #049389;
+  color: #fff;
+}
+
+@media screen and (max-width:1100px){
+  .pricing-card{
+    flex: 50%;
+  }
+}
+
+
+
+
+
+body{
+  margin:0;
+  overflow-x:hidden;
+  }
+  
+  .footer{
+  background:transparent;
+  padding:30px 0px;
+  font-family: 'Play', sans-serif;
+  font-weight: 900;
+  text-align:center;
+  }
+  
+  .footer .row{
+  width:100%;
+  margin:1% 0%;
+  padding:0.6% 0%;
+  color:#049389;
+  font-size:0.8em;
+  }
+  
+  .footer .row a{
+  text-decoration:none;
+  color:#049389;
+  transition:0.5s;
+  }
+  
+
+  
+  .footer .row ul{
+  width:100%;
+  }
+  
+  .footer .row ul li{
+  display:inline-block;
+  margin:0px 30px;
+  }
+  
+  .footer .row a i{
+  font-size:2em;
+  margin:0% 1%;
+  }
+  
+  @media (max-width:720px){
+  .footer{
+  text-align:left;
+  padding:5%;
+  }
+  .footer .row ul li{
+  display:block;
+  margin:10px 0px;
+  text-align:left;
+  }
+  .footer .row a i{
+  margin:0% 3%;
+  }
+  }
+
+
+
+
+
+ 
