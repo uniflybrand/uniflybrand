@@ -1368,8 +1368,8 @@ a {
 
 
   /*FAQ SECTION*/
-
-
+  
+  
 
   /*FAQ SECTION*/
   
@@ -1509,7 +1509,5 @@ a {
   #faq ul li input[type=checkbox]:checked ~ i:after {
     transform: translate(-2px, 0) rotate(-45deg);
   }
-  
-  
   
   
