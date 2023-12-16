@@ -141,7 +141,7 @@ gsap.from(".team_img_wrapper img", {
 
 // popup Message//
 
-alert ("This Website Is Now Underconstruction. ")
+alert ("This Website Is Now Underconstruction ")
 
 
 
